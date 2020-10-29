@@ -1,0 +1,1 @@
+・addしてstatus見てcommit
